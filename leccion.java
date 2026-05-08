@@ -11,7 +11,7 @@ public static void main(String[] args) {
 
     var op = largo*ancho;
 
-    System.out.println("El area del rectangulo es igual a "+op);
+    System.out.println("El area del rectangulo es igual a "+op); 
 
 
 
